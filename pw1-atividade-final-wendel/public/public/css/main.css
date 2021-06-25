@@ -1,0 +1,40 @@
+/* NAVBAR */
+.navbar{
+    background-color: rgb(245, 0, 0);
+    color:snow
+}
+
+.collapse{
+    justify-content:space-between;
+}
+
+.nav-link{
+  color:floralwhite;
+  font-weight:bolder;
+}
+
+.btn-outline-success{
+    color: thistle;
+}
+
+.nav-link:hover{
+    color:darkslategrey;
+}
+/* FIM NAVBAR */
+
+.btn-primary{
+    color:red;
+}
+
+/* HEADER */
+.header{
+    justify-content: center;
+    position: fixed;
+    text-align: justify;
+    bottom: 4;
+}
+
+/* FIM HEADER */
+
+/* FOOTER */
+/* FIM FOOTER */
